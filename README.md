@@ -2,8 +2,6 @@
 
 An interactive 3D web-based game where players learn about rocket and gas turbine engines by assembling them part by part.
 
-![Game Screenshot](https://via.placeholder.com/800x450?text=Motor+Assembly+Simulator)
-
 ## ✨ Features
 
 - **Two Game Modes**:
@@ -39,7 +37,7 @@ No build process required! This is a standalone HTML file.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/aviation-games.git
+   git clone https://github.com/carbonfiberk/aviation-games.git
    ```
 2. Navigate to the folder:
    ```bash
@@ -50,3 +48,4 @@ No build process required! This is a standalone HTML file.
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
